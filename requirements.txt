@@ -1,0 +1,8 @@
+django
+djangorestframework
+psycopg2-binary
+configparser
+environs
+gunicorn
+pyTelegramBotApi
+django-grappelli
